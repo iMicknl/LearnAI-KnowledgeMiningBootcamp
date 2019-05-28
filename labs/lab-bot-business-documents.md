@@ -119,7 +119,7 @@ Next, run the bot (select `F5`) and on the Bot Emulator, search for something. A
 
 Using break points for debugging and seeing how calls are made and processed is a very valuable tool. If you'd like to learn more, [start here](https://docs.microsoft.com/en-us/visualstudio/debugger/getting-started-with-the-debugger?view=vs-2017).  
 
-> Want to dive deeper into bot development? Check out the [LearnAI: Azure Cognitive Services Bootcamp](https://azure.github.io/LearnAI-Bootcamp/emergingaidev_bootcamp) which integrates multiple Cognitive Services to create an intelligent agent.
+> Want to dive deeper into bot development? Check out the [LearnAI: Azure Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp) which integrates multiple Cognitive Services to create an intelligent agent and [LearnAI: Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents) which covers how to deal with complexities during bot design, specifically with regards to natural language understanding (NLU), architectures, and intelligence.
 
 ## Step 5 - Deploy your Bot
 
